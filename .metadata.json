@@ -28,6 +28,10 @@
     "oncran": true
   },
   {
+    "package": "oblicubes",
+    "oncran": true
+  },
+  {
     "package": "optparse",
     "oncran": true
   }

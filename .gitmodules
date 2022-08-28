@@ -38,6 +38,11 @@
 	url = https://github.com/trevorld/r-ledger
 	shallow = true
 	registered = true
+[submodule "oblicubes"]
+	path = oblicubes
+	url = https://github.com/trevorld/oblicubes
+	shallow = true
+	registered = true
 [submodule "optparse"]
 	path = optparse
 	url = https://github.com/trevorld/r-optparse
