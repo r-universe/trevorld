@@ -18,6 +18,11 @@
 	url = https://github.com/trevorld/bracer
 	shallow = true
 	registered = true
+[submodule "datetimeoffset"]
+	path = datetimeoffset
+	url = https://github.com/trevorld/r-datetimeoffset
+	shallow = true
+	registered = true
 [submodule "findpython"]
 	path = findpython
 	url = https://github.com/trevorld/findpython

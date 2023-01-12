@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "datetimeoffset",
+    "oncran": true
+  },
+  {
     "package": "findpython",
     "oncran": true
   },
