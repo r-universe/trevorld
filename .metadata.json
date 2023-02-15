@@ -28,6 +28,10 @@
     "oncran": true
   },
   {
+    "package": "hexfont",
+    "oncran": true
+  },
+  {
     "package": "ledger",
     "oncran": true
   },

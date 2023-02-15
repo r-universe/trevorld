@@ -38,6 +38,11 @@
 	url = https://github.com/trevorld/gridpattern
 	shallow = true
 	registered = true
+[submodule "hexfont"]
+	path = hexfont
+	url = https://github.com/trevorld/hexfont
+	shallow = true
+	registered = true
 [submodule "ledger"]
 	path = ledger
 	url = https://github.com/trevorld/r-ledger
