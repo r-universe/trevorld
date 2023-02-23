@@ -42,5 +42,9 @@
   {
     "package": "optparse",
     "oncran": true
+  },
+  {
+    "package": "xmpdf",
+    "oncran": true
   }
 ]

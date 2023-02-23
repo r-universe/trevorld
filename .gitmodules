@@ -58,3 +58,8 @@
 	url = https://github.com/trevorld/r-optparse
 	shallow = true
 	registered = true
+[submodule "xmpdf"]
+	path = xmpdf
+	url = https://github.com/trevorld/r-xmpdf
+	shallow = true
+	registered = true
