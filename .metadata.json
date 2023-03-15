@@ -1,22 +1,6 @@
 [
   {
-    "package": "argparse",
-    "oncran": true
-  },
-  {
-    "package": "bittermelon",
-    "oncran": true
-  },
-  {
-    "package": "bracer",
-    "oncran": true
-  },
-  {
-    "package": "datetimeoffset",
-    "oncran": true
-  },
-  {
-    "package": "findpython",
+    "package": "hexfont",
     "oncran": true
   },
   {
@@ -24,15 +8,11 @@
     "oncran": true
   },
   {
-    "package": "gridpattern",
+    "package": "findpython",
     "oncran": true
   },
   {
-    "package": "hexfont",
-    "oncran": true
-  },
-  {
-    "package": "ledger",
+    "package": "argparse",
     "oncran": true
   },
   {
@@ -40,11 +20,31 @@
     "oncran": true
   },
   {
-    "package": "optparse",
+    "package": "xmpdf",
     "oncran": true
   },
   {
-    "package": "xmpdf",
+    "package": "bracer",
+    "oncran": true
+  },
+  {
+    "package": "gridpattern",
+    "oncran": true
+  },
+  {
+    "package": "bittermelon",
+    "oncran": true
+  },
+  {
+    "package": "datetimeoffset",
+    "oncran": true
+  },
+  {
+    "package": "ledger",
+    "oncran": true
+  },
+  {
+    "package": "optparse",
     "oncran": true
   }
 ]
