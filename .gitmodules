@@ -3,44 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "hexfont"]
-	path = hexfont
-	url = https://github.com/trevorld/hexfont
-	shallow = true
-	registered = true
-[submodule "getopt"]
-	path = getopt
-	url = https://github.com/trevorld/r-getopt
-	shallow = true
-	registered = true
-[submodule "findpython"]
-	path = findpython
-	url = https://github.com/trevorld/findpython
-	shallow = true
-	registered = true
 [submodule "argparse"]
 	path = argparse
 	url = https://github.com/trevorld/r-argparse
-	shallow = true
-	registered = true
-[submodule "oblicubes"]
-	path = oblicubes
-	url = https://github.com/trevorld/oblicubes
-	shallow = true
-	registered = true
-[submodule "xmpdf"]
-	path = xmpdf
-	url = https://github.com/trevorld/r-xmpdf
-	shallow = true
-	registered = true
-[submodule "bracer"]
-	path = bracer
-	url = https://github.com/trevorld/bracer
-	shallow = true
-	registered = true
-[submodule "gridpattern"]
-	path = gridpattern
-	url = https://github.com/trevorld/gridpattern
 	shallow = true
 	registered = true
 [submodule "bittermelon"]
@@ -48,9 +13,34 @@
 	url = https://github.com/trevorld/bittermelon
 	shallow = true
 	registered = true
+[submodule "bracer"]
+	path = bracer
+	url = https://github.com/trevorld/bracer
+	shallow = true
+	registered = true
 [submodule "datetimeoffset"]
 	path = datetimeoffset
 	url = https://github.com/trevorld/r-datetimeoffset
+	shallow = true
+	registered = true
+[submodule "findpython"]
+	path = findpython
+	url = https://github.com/trevorld/findpython
+	shallow = true
+	registered = true
+[submodule "getopt"]
+	path = getopt
+	url = https://github.com/trevorld/r-getopt
+	shallow = true
+	registered = true
+[submodule "gridpattern"]
+	path = gridpattern
+	url = https://github.com/trevorld/gridpattern
+	shallow = true
+	registered = true
+[submodule "hexfont"]
+	path = hexfont
+	url = https://github.com/trevorld/hexfont
 	shallow = true
 	registered = true
 [submodule "ledger"]
@@ -58,8 +48,18 @@
 	url = https://github.com/trevorld/r-ledger
 	shallow = true
 	registered = true
+[submodule "oblicubes"]
+	path = oblicubes
+	url = https://github.com/trevorld/oblicubes
+	shallow = true
+	registered = true
 [submodule "optparse"]
 	path = optparse
 	url = https://github.com/trevorld/r-optparse
+	shallow = true
+	registered = true
+[submodule "xmpdf"]
+	path = xmpdf
+	url = https://github.com/trevorld/r-xmpdf
 	shallow = true
 	registered = true
