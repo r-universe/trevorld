@@ -20,6 +20,9 @@
 [submodule "getopt"]
 	path = getopt
 	url = https://github.com/trevorld/r-getopt
+[submodule "ggpattern"]
+	path = ggpattern
+	url = https://github.com/trevorld/ggpattern
 [submodule "gridpattern"]
 	path = gridpattern
 	url = https://github.com/trevorld/gridpattern
