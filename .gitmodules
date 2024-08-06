@@ -23,9 +23,17 @@
 [submodule "findpython"]
 	path = findpython
 	url = https://github.com/trevorld/findpython
+[submodule "ggfx"]
+	path = ggfx
+	url = https://github.com/thomasp85/ggfx
+	registered = false
 [submodule "ggpattern"]
 	path = ggpattern
 	url = https://github.com/trevorld/ggpattern
+[submodule "ggvoronoi"]
+	path = ggvoronoi
+	url = https://github.com/nrennie/ggvoronoi
+	registered = false
 [submodule "gridpattern"]
 	path = gridpattern
 	url = https://github.com/trevorld/gridpattern
