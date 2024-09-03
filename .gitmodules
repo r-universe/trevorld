@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/trevorld/trevorld.r-universe.dev
 	branch = HEAD
+[submodule "aRt"]
+	path = aRt
+	url = https://github.com/nrennie/aRt
+[submodule "affiner"]
+	path = affiner
+	url = https://github.com/trevorld/affiner
 [submodule "argparse"]
 	path = argparse
 	url = https://github.com/trevorld/r-argparse
@@ -17,9 +23,6 @@
 [submodule "findpython"]
 	path = findpython
 	url = https://github.com/trevorld/findpython
-[submodule "getopt"]
-	path = getopt
-	url = https://github.com/trevorld/r-getopt
 [submodule "ggpattern"]
 	path = ggpattern
 	url = https://github.com/trevorld/ggpattern
@@ -32,12 +35,15 @@
 [submodule "ledger"]
 	path = ledger
 	url = https://github.com/trevorld/r-ledger
-[submodule "oblicubes"]
-	path = oblicubes
-	url = https://github.com/trevorld/oblicubes
 [submodule "optparse"]
 	path = optparse
 	url = https://github.com/trevorld/r-optparse
+[submodule "r.oguelike"]
+	path = r.oguelike
+	url = https://github.com/matt-dray/r.oguelike
+[submodule "truchet"]
+	path = truchet
+	url = https://github.com/paezha/truchet
 [submodule "xmpdf"]
 	path = xmpdf
 	url = https://github.com/trevorld/r-xmpdf
