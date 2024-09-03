@@ -1,0 +1,10 @@
+{
+  "id": 54470286,
+  "created_at": "2024-09-03T23:07:50.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["trevorld.r-universe.dev"]
+}
