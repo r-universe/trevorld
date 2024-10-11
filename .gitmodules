@@ -23,6 +23,9 @@
 [submodule "findpython"]
 	path = findpython
 	url = https://github.com/trevorld/findpython
+[submodule "getopt"]
+	path = getopt
+	url = https://github.com/trevorld/r-getopt
 [submodule "ggfx"]
 	path = ggfx
 	url = https://github.com/thomasp85/ggfx
