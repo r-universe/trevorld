@@ -10,5 +10,11 @@
     "url": "https://github.com/nrennie/ggvoronoi",
     "via": ["aRt"],
     "from": "aRt"
+  },
+  {
+    "package": "piecepackr",
+    "url": "https://github.com/piecepackr/piecepackr",
+    "via": ["pnpmisc"],
+    "from": "pnpmisc"
   }
 ]

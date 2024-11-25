@@ -49,6 +49,10 @@
 [submodule "optparse"]
 	path = optparse
 	url = https://github.com/trevorld/r-optparse
+[submodule "piecepackr"]
+	path = piecepackr
+	url = https://github.com/piecepackr/piecepackr
+	registered = false
 [submodule "pnpmisc"]
 	path = pnpmisc
 	url = https://github.com/trevorld/pnpmisc
