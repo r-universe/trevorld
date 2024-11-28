@@ -49,6 +49,9 @@
 [submodule "optparse"]
 	path = optparse
 	url = https://github.com/trevorld/r-optparse
+[submodule "pnpmisc"]
+	path = pnpmisc
+	url = https://github.com/trevorld/pnpmisc
 [submodule "r.oguelike"]
 	path = r.oguelike
 	url = https://github.com/matt-dray/r.oguelike
