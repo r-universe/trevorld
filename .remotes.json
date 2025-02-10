@@ -16,5 +16,29 @@
     "url": "https://github.com/piecepackr/piecepackr",
     "via": ["pnpmisc"],
     "from": "pnpmisc"
+  },
+  {
+    "package": "piecepackr",
+    "url": "https://github.com/piecepackr/piecepackr",
+    "via": ["sbgjackets", "pnpmisc"],
+    "from": "sbgjackets"
+  },
+  {
+    "package": "pnpmisc",
+    "url": "https://github.com/trevorld/pnpmisc",
+    "via": ["sbgjackets"],
+    "from": "sbgjackets"
+  },
+  {
+    "package": "ppcli",
+    "url": "https://github.com/piecepackr/ppcli",
+    "via": ["sbgjackets", "ppdf"],
+    "from": "sbgjackets"
+  },
+  {
+    "package": "ppdf",
+    "url": "https://github.com/piecepackr/ppdf",
+    "via": ["sbgjackets"],
+    "from": "sbgjackets"
   }
 ]
