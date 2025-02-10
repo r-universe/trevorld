@@ -59,6 +59,9 @@
 [submodule "r.oguelike"]
 	path = r.oguelike
 	url = https://github.com/matt-dray/r.oguelike
+[submodule "sbgjackets"]
+	path = sbgjackets
+	url = https://github.com/trevorld/sbgjackets
 [submodule "truchet"]
 	path = truchet
 	url = https://github.com/paezha/truchet
