@@ -46,6 +46,9 @@
 [submodule "ledger"]
 	path = ledger
 	url = https://github.com/trevorld/r-ledger
+[submodule "oblicubes"]
+	path = oblicubes
+	url = https://github.com/trevorld/oblicubes
 [submodule "optparse"]
 	path = optparse
 	url = https://github.com/trevorld/r-optparse
