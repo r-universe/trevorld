@@ -67,6 +67,10 @@
 	path = ppdf
 	url = https://github.com/piecepackr/ppdf
 	registered = false
+[submodule "ppn"]
+	path = ppn
+	url = https://github.com/piecepackr/ppn
+	registered = false
 [submodule "r.oguelike"]
 	path = r.oguelike
 	url = https://github.com/matt-dray/r.oguelike

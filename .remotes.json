@@ -20,7 +20,7 @@
   {
     "package": "piecepackr",
     "url": "https://github.com/piecepackr/piecepackr",
-    "via": ["sbgjackets", "ppdf"],
+    "via": ["sbgjackets"],
     "from": "sbgjackets"
   },
   {
@@ -38,6 +38,12 @@
   {
     "package": "ppdf",
     "url": "https://github.com/piecepackr/ppdf",
+    "via": ["sbgjackets"],
+    "from": "sbgjackets"
+  },
+  {
+    "package": "ppn",
+    "url": "https://github.com/piecepackr/ppn",
     "via": ["sbgjackets"],
     "from": "sbgjackets"
   }
