@@ -1,5 +1,11 @@
 [
   {
+    "package": "affiner",
+    "url": "https://github.com/trevorld/affiner",
+    "via": ["dee"],
+    "from": "dee"
+  },
+  {
     "package": "ggfx",
     "url": "https://github.com/thomasp85/ggfx",
     "via": ["aRt"],
