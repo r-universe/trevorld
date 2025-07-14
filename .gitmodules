@@ -20,6 +20,9 @@
 [submodule "datetimeoffset"]
 	path = datetimeoffset
 	url = https://github.com/trevorld/r-datetimeoffset
+[submodule "dee"]
+	path = dee
+	url = https://github.com/trevorld/dee
 [submodule "findpython"]
 	path = findpython
 	url = https://github.com/trevorld/findpython
