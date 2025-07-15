@@ -17,6 +17,10 @@
 [submodule "bracer"]
 	path = bracer
 	url = https://github.com/trevorld/bracer
+[submodule "cssparser"]
+	path = cssparser
+	url = https://github.com/coolbutuseless/cssparser
+	registered = false
 [submodule "datetimeoffset"]
 	path = datetimeoffset
 	url = https://github.com/trevorld/r-datetimeoffset
@@ -32,6 +36,10 @@
 [submodule "ggfx"]
 	path = ggfx
 	url = https://github.com/thomasp85/ggfx
+	registered = false
+[submodule "gggrid"]
+	path = gggrid
+	url = https://github.com/pmur002/gggrid
 	registered = false
 [submodule "ggpattern"]
 	path = ggpattern
@@ -49,6 +57,10 @@
 [submodule "ledger"]
 	path = ledger
 	url = https://github.com/trevorld/r-ledger
+[submodule "minisvg"]
+	path = minisvg
+	url = https://github.com/coolbutuseless/minisvg
+	registered = false
 [submodule "oblicubes"]
 	path = oblicubes
 	url = https://github.com/trevorld/oblicubes
@@ -80,6 +92,10 @@
 [submodule "sbgjackets"]
 	path = sbgjackets
 	url = https://github.com/trevorld/sbgjackets
+[submodule "svgparser"]
+	path = svgparser
+	url = https://github.com/coolbutuseless/svgparser
+	registered = false
 [submodule "truchet"]
 	path = truchet
 	url = https://github.com/paezha/truchet

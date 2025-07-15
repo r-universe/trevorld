@@ -6,16 +6,34 @@
     "from": "dee"
   },
   {
+    "package": "cssparser",
+    "url": "https://github.com/coolbutuseless/cssparser",
+    "via": ["dee", "svgparser"],
+    "from": "dee"
+  },
+  {
     "package": "ggfx",
     "url": "https://github.com/thomasp85/ggfx",
     "via": ["aRt"],
     "from": "aRt"
   },
   {
+    "package": "gggrid",
+    "url": "https://github.com/pmur002/gggrid",
+    "via": ["dee", "svgparser"],
+    "from": "dee"
+  },
+  {
     "package": "ggvoronoi",
     "url": "https://github.com/nrennie/ggvoronoi",
     "via": ["aRt"],
     "from": "aRt"
+  },
+  {
+    "package": "minisvg",
+    "url": "https://github.com/coolbutuseless/minisvg",
+    "via": ["dee", "svgparser"],
+    "from": "dee"
   },
   {
     "package": "piecepackr",
@@ -52,5 +70,11 @@
     "url": "https://github.com/piecepackr/ppn",
     "via": ["sbgjackets"],
     "from": "sbgjackets"
+  },
+  {
+    "package": "svgparser",
+    "url": "https://github.com/coolbutuseless/svgparser",
+    "via": ["dee"],
+    "from": "dee"
   }
 ]
