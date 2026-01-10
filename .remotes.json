@@ -6,6 +6,12 @@
     "from": "dee"
   },
   {
+    "package": "bittermelon",
+    "url": "https://github.com/trevorld/bittermelon",
+    "via": ["pnpmisc"],
+    "from": "pnpmisc"
+  },
+  {
     "package": "cssparser",
     "url": "https://github.com/coolbutuseless/cssparser",
     "via": ["dee", "svgparser"],
