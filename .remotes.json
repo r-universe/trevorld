@@ -12,6 +12,12 @@
     "from": "pnpmisc"
   },
   {
+    "package": "bittermelon",
+    "url": "https://github.com/trevorld/bittermelon",
+    "via": ["sbgjackets", "pnpmisc"],
+    "from": "sbgjackets"
+  },
+  {
     "package": "cssparser",
     "url": "https://github.com/coolbutuseless/cssparser",
     "via": ["dee", "svgparser"],
