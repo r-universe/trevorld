@@ -95,7 +95,6 @@
 [submodule "svgparser"]
 	path = svgparser
 	url = https://github.com/coolbutuseless/svgparser
-	registered = false
 [submodule "truchet"]
 	path = truchet
 	url = https://github.com/paezha/truchet
