@@ -74,18 +74,6 @@
 [submodule "pnpmisc"]
 	path = pnpmisc
 	url = https://github.com/trevorld/pnpmisc
-[submodule "ppcli"]
-	path = ppcli
-	url = https://github.com/piecepackr/ppcli
-	registered = false
-[submodule "ppdf"]
-	path = ppdf
-	url = https://github.com/piecepackr/ppdf
-	registered = false
-[submodule "ppn"]
-	path = ppn
-	url = https://github.com/piecepackr/ppn
-	registered = false
 [submodule "r.oguelike"]
 	path = r.oguelike
 	url = https://github.com/matt-dray/r.oguelike
