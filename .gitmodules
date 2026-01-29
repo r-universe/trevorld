@@ -17,10 +17,6 @@
 [submodule "bracer"]
 	path = bracer
 	url = https://github.com/trevorld/bracer
-[submodule "cssparser"]
-	path = cssparser
-	url = https://github.com/coolbutuseless/cssparser
-	registered = false
 [submodule "datetimeoffset"]
 	path = datetimeoffset
 	url = https://github.com/trevorld/r-datetimeoffset
@@ -33,21 +29,9 @@
 [submodule "getopt"]
 	path = getopt
 	url = https://github.com/trevorld/r-getopt
-[submodule "ggfx"]
-	path = ggfx
-	url = https://github.com/thomasp85/ggfx
-	registered = false
-[submodule "gggrid"]
-	path = gggrid
-	url = https://github.com/pmur002/gggrid
-	registered = false
 [submodule "ggpattern"]
 	path = ggpattern
 	url = https://github.com/trevorld/ggpattern
-[submodule "ggvoronoi"]
-	path = ggvoronoi
-	url = https://github.com/nrennie/ggvoronoi
-	registered = false
 [submodule "gridpattern"]
 	path = gridpattern
 	url = https://github.com/trevorld/gridpattern
@@ -57,20 +41,12 @@
 [submodule "ledger"]
 	path = ledger
 	url = https://github.com/trevorld/r-ledger
-[submodule "minisvg"]
-	path = minisvg
-	url = https://github.com/coolbutuseless/minisvg
-	registered = false
 [submodule "oblicubes"]
 	path = oblicubes
 	url = https://github.com/trevorld/oblicubes
 [submodule "optparse"]
 	path = optparse
 	url = https://github.com/trevorld/r-optparse
-[submodule "piecepackr"]
-	path = piecepackr
-	url = https://github.com/piecepackr/piecepackr
-	registered = false
 [submodule "pnpmisc"]
 	path = pnpmisc
 	url = https://github.com/trevorld/pnpmisc
