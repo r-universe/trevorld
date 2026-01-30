@@ -17,6 +17,9 @@
 [submodule "bracer"]
 	path = bracer
 	url = https://github.com/trevorld/bracer
+[submodule "cssparser"]
+	path = cssparser
+	url = https://github.com/coolbutuseless/cssparser
 [submodule "datetimeoffset"]
 	path = datetimeoffset
 	url = https://github.com/trevorld/r-datetimeoffset
@@ -41,6 +44,9 @@
 [submodule "ledger"]
 	path = ledger
 	url = https://github.com/trevorld/r-ledger
+[submodule "minisvg"]
+	path = minisvg
+	url = https://github.com/coolbutuseless/minisvg
 [submodule "oblicubes"]
 	path = oblicubes
 	url = https://github.com/trevorld/oblicubes
