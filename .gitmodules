@@ -47,6 +47,9 @@
 [submodule "minisvg"]
 	path = minisvg
 	url = https://github.com/coolbutuseless/minisvg
+[submodule "nanosvgr"]
+	path = nanosvgr
+	url = https://github.com/coolbutuseless/nanosvgr
 [submodule "oblicubes"]
 	path = oblicubes
 	url = https://github.com/trevorld/oblicubes
